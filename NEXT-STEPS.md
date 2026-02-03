@@ -1,6 +1,6 @@
 # 🎉 Congratulations! You've Completed the Markdown Exercise!
 
-<img src="https://octodex.github.com/images/chellocat.jpg" alt="celebrate" width="300" align="right">
+<img src="https://octodex.github.com/images/chellocat.jpg" alt="Chellocat - a cheerful Octocat celebrating with raised paws" width="300" align="right">
 
 You've successfully completed the **Communicate using Markdown** exercise! Here's what you accomplished:
 
