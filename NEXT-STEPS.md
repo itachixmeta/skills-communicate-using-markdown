@@ -35,12 +35,12 @@ GitHub Skills offers many interactive exercises to help you master GitHub:
 
 ### 3. Learn More About Markdown 📚
 Deepen your Markdown knowledge:
-- [GitHub Markdown Documentation](https://docs.github.com/github/writing-on-github)
-- [Basic Writing and Formatting Syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [Advanced Formatting](https://docs.github.com/github/writing-on-github/working-with-advanced-formatting)
+- [GitHub Markdown Documentation](https://docs.github.com/en/get-started/writing-on-github)
+- [Basic Writing and Formatting Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [Advanced Formatting](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting)
 
 ### 4. Explore GitHub 🌟
-- Read the [GitHub Getting Started Guide](https://docs.github.com/get-started)
+- Read the [GitHub Getting Started Guide](https://docs.github.com/en/get-started)
 - Discover projects to contribute to at [GitHub Explore](https://github.com/explore)
 - Join the [GitHub Community](https://github.com/community)
 
@@ -61,7 +61,7 @@ Deepen your Markdown knowledge:
 If you have questions or run into issues:
 - Check the [GitHub Skills FAQ](https://skills.github.com/)
 - Visit [GitHub Community Discussions](https://github.com/orgs/community/discussions)
-- Review [GitHub Documentation](https://docs.github.com)
+- Review [GitHub Documentation](https://docs.github.com/en)
 
 ---
 
