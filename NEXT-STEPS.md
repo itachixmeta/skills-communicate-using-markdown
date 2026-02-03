@@ -59,7 +59,7 @@ Deepen your Markdown knowledge:
 ## 🤔 Need Help?
 
 If you have questions or run into issues:
-- Check the [GitHub Skills FAQ](https://skills.github.com/)
+- Browse [GitHub Skills](https://skills.github.com/) for more exercises and resources
 - Visit [GitHub Community Discussions](https://github.com/orgs/community/discussions)
 - Review [GitHub Documentation](https://docs.github.com/en)
 
